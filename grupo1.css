@@ -1,6 +1,6 @@
 #header
 {
-	background-color: orange;
+	background-color: pink;
 	color: black;
 	text-align: center;
 	padding: 55px;
@@ -40,7 +40,7 @@ body
 
 .links a:hover
 {
-	color: yellow;
+	color: black;
 	justify-content: center;
 	display: flex;
 }
